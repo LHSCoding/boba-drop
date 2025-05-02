@@ -1,0 +1,21 @@
+/*CSS files work the same way as <style>*/
+body{
+    text-align: center;
+    background-color: pink; /*Don't know why but looks nice...*/
+}
+h1{
+    font-size: 3em; /*em means current font size so 3 times current font size...*/
+}
+h2{
+    font-size: 1.5em;
+}
+footer{
+    background-color: sandybrown; /*Hex colors give you more to choose but start by using names unless you need speciifc colors*/
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    /*Usually make it look like text but now there is nice color...*/
+}
+
+/*I recommend trying figma...*/
